@@ -20,7 +20,3 @@ if __name__ == "__main__":
     print("-----------------------------------------------------\nIntelligent Password Generator of VARIABLE LENGTH with\nMIXED UPPER CASE, LOWER CASE characters and SYMBOLS\n-----------------------------------------------------\n ")
     print(generate_pass())
 
-# characters = string.ascii_letters + string.punctuation  + string.digits
-# password =  "".join(choice(characters) for x in range(randint(8, 16)))
-# print (password)
-
